@@ -93,33 +93,6 @@ const axel = {
 
 </div>
 
----
-
-## 💼 Experiencia Profesional
-
-### 🏢 SOFTECH - Full Stack Developer .NET/Angular
-**Julio 2025 - Presente**
-- Desarrollo de plataforma de automatización de ventas con .NET 8 y Angular 19
-- Implementación de Micro-ORM Dapper sobre SQL Server con optimización de queries
-- Diseño de APIs RESTful con documentación OpenAPI (Swagger)
-- Integración de workflows con N8N para automatización de procesos
-- Metodología Scrum con entregas incrementales
-
-### 📱 PANDATECH - Android Developer
-**Marzo 2025 - Julio 2025**
-- Desarrollo de app logística con Java 8+ y arquitectura MVC
-- Implementación de SQLite con patrón DAO para operación offline
-- Integración de Google Maps SDK y APIs RESTful con Volley
-- Optimización de rendimiento y consumo de batería
-
-### 💻 COMPINA - Full Stack Java/React Developer
-**Octubre 2024 - Marzo 2025**
-- Sistema integral de administración con Spring Boot, React y MySQL
-- Módulo de control de asistencia y gestión de empleados
-- Autenticación JWT y control de acceso basado en roles (RBAC)
-- Metodología Kanban con Trello
-
----
 
 ## 🏆 Certificaciones
 
