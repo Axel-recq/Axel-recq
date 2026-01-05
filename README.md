@@ -104,29 +104,7 @@ const axel = {
 - ✅ **Microsoft SQL Server Bootcamp 2024** - Udemy
 - ✅ **IT Essentials: PC Hardware and Software** - Cisco Networking Academy
 
----
-
-## 🎯 Proyectos Destacados
-
-### 🔹 Sistema CRM
-Sistema de gestión de relaciones con clientes desarrollado con Angular y Node.js
-- Autenticación JWT
-- Dashboard con métricas en tiempo real
-- Gestión completa de clientes y oportunidades
-
-### 🔹 API Gestión de Pedidos
-Backend robusto en C# .NET Core con arquitectura limpia
-- APIs RESTful documentadas con Swagger
-- Entity Framework Core
-- Patrones de diseño SOLID
-
-### 🔹 App de Trazabilidad
-Aplicación Android nativa para seguimiento logístico
-- Operación offline con SQLite
-- Integración con Google Maps
-- Arquitectura MVC escalable
-
----
+  
 
 ## 📈 Actividad de Desarrollo
 
@@ -164,7 +142,5 @@ Aplicación Android nativa para seguimiento logístico
 ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 ![Visitor Count](https://profile-counter.glitch.me/Axel-recq/count.svg)
-
-⭐️ From [Axel-recq](https://github.com/Axel-recq)
-
+ 
 </div>
