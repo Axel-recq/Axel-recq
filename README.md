@@ -199,37 +199,6 @@ gantt
 
 </div>
 
-### 🏢 SOFTECH | Full Stack Developer .NET/Angular
-**📅 Julio 2025 - Presente**
-
-<img align="right" width="100" src="https://img.icons8.com/color/96/000000/development-skill.png"/>
-
-- 🚀 Desarrollo de **plataforma de automatización de ventas** con .NET 8 y Angular 19
-- ⚡ Implementación de **Dapper (Micro-ORM)** sobre SQL Server con optimización de queries
-- 📡 Diseño de **APIs RESTful** documentadas con OpenAPI (Swagger)
-- 🔄 Integración de **workflows N8N** para automatización de procesos comerciales
-- 🎯 Metodología **Scrum** con entregas incrementales
-
-### 📱 PANDATECH | Android Developer
-**📅 Marzo 2025 - Julio 2025**
-
-<img align="right" width="100" src="https://img.icons8.com/color/96/000000/android-os.png"/>
-
-- 📦 Solución logística con **Java 8+ y arquitectura MVC**
-- 💾 Implementación de **SQLite con patrón DAO** para operación offline
-- 🗺️ Integración de **Google Maps SDK** y APIs RESTful con Volley
-- 🔋 Optimización de **rendimiento y consumo de batería**
-
-### 💻 COMPINA | Full Stack Java/React Developer
-**📅 Octubre 2024 - Marzo 2025**
-
-<img align="right" width="100" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png"/>
-
-- 🏗️ Sistema integral con **Spring Boot, React y MySQL**
-- 👥 Módulo de **control de asistencia** y gestión de empleados
-- 🔐 Autenticación **JWT** y control de acceso basado en roles (RBAC)
-- 📋 Metodología **Kanban** con Trello
-
 ---
 
 ## 🏆 Certificaciones & Logros
