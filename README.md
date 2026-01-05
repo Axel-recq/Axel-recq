@@ -20,7 +20,6 @@
 const axel = {
     role: "Full Stack Developer",
     location: "Lima, Perú 🇵🇪",
-    currentCompany: "SOFTECH",
     education: "Ingeniería de Software - UTP",
     experience: "1.5 años",
     passions: ["Clean Code", "Microservices", "Problem Solving"],
