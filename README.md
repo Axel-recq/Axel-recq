@@ -82,16 +82,87 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Axel-recq&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Axel-recq&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Axel-recq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true)](https://github.com/Axel-recq)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Axel-recq&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://github.com/Axel-recq)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Axel-recq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6)](https://github.com/Axel-recq)
+
 </div>
+
+---
+
+## 🎯 Proyectos Destacados
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel-recq&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Axel-recq&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏢 Sistema CRM</h3>
+      <div align="center">
+        <a href="https://github.com/Axel-recq/SISTEMA-CRM" target="_blank">
+          <img src="https://img.shields.io/badge/VER_PROYECTO-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+        </p>
+      </div>
+      <p>Sistema de gestión con dashboard en tiempo real y autenticación JWT</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚚 API Gestión de Pedidos</h3>
+      <div align="center">
+        <a href="https://github.com/Axel-recq/Backend_API_Gestion_De_Pedidos" target="_blank">
+          <img src="https://img.shields.io/badge/VER_PROYECTO-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+          <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+          <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+        </p>
+      </div>
+      <p>Backend con arquitectura limpia y APIs RESTful documentadas</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📦 App Trazabilidad</h3>
+      <div align="center">
+        <a href="https://github.com/Axel-recq/Trazabilidad-App" target="_blank">
+          <img src="https://img.shields.io/badge/VER_PROYECTO-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+          <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
+        </p>
+      </div>
+      <p>App Android con operación offline y Google Maps SDK</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔗 Backend Node.js</h3>
+      <div align="center">
+        <a href="https://github.com/Axel-recq/Backend_node" target="_blank">
+          <img src="https://img.shields.io/badge/VER_PROYECTO-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        </p>
+      </div>
+      <p>Arquitectura orientada a eventos con microservicios</p>
+    </td>
+  </tr>
+</table>
+
 </div>
 
-
+---
 
 ## 🏆 Certificaciones
 
