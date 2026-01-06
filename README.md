@@ -138,7 +138,7 @@ const developer = {
 
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."*
 
-**⭐ Hecho con ❤️ por [Axel](https://github.com/Axel-recq)**
+**[Axel](https://github.com/Axel-recq)**
 
 </div>
 
