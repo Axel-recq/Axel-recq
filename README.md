@@ -12,7 +12,7 @@
   <a href="https://tu-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bienvenido%20a%20mi%20Perfil&fontSize=42&fontAlignY=32&desc=Building%20the%20future,%20one%20commit%20at%20a%20time&descAlignY=51&descAlign=50&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bienvenido%20a%20mi%20Perfil&fontSize=42&fontAlignY=32&desc=Construye%20el%20futuro,%20un%20commit%20a%20la%20vez&descAlignY=51&descAlign=50&animation=twinkling"/>
 
 </div>
 
