@@ -24,7 +24,6 @@
 const developer = {
   role: "Full Stack Developer",
   location: "Lima, Perú 🇵🇪",
-  education: "Ingeniería de Software - UTP",
   specialization: ["Backend APIs", "Frontend SPAs", "Mobile Apps", "Cloud Architecture"],
   currentStack: ["Angular 19", ".NET 8", "Spring Boot", "Docker"],
   learning: ["Microservices", "Kubernetes", "Cloud Native Patterns"],
